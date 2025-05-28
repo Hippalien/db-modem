@@ -4,6 +4,10 @@ export default [
     "name": "transport"
   },
   {
+    "id": "cb7e0098-301a-47fe-90d0-80f1dede9904",
+    "name": "ticket"
+  },
+  {
     "id": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "name": "camping"
   },
@@ -18,9 +22,5 @@ export default [
   {
     "id": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "name": "safety"
-  },
-  {
-    "id": "cb7e0098-301a-47fe-90d0-80f1dede9904",
-    "name": "ticket"
   }
 ]

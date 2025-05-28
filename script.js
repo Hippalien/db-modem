@@ -27,7 +27,7 @@ function updateCategories() {
   const updatedCategories = categories.map(function(cat) {
     return {
       id: uuidv4(),
-      name: cat
+      name: cat.name
     };
   });
 
