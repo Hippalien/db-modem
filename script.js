@@ -1,5 +1,6 @@
 import articles from "./data/articles.js";
 import categories from "./data/categories.js";
+import users from "./data/users.js";
 import { v4 as uuidv4 } from 'uuid';
 import fs from 'fs'; // permet de lire, écrire ou ajouter un contenu à un fichier
 
@@ -42,6 +43,29 @@ function updateCategories() {
   });
 }
 
+
+const idUsers = uuidv4();
+console.log(idUsers);
+
+function updateUsers() {
+  const updatedUserId = users.map(function(users) {
+    users.id = uuidv4();
+    return users;
+  });
+
+  const fileContent = `export default ${JSON.stringify(updatedUserId, undefined, 2)}`;
+
+  fs.writeFile('./data/users.js', fileContent, function(err) {
+    if (err) {
+      console.error('Erreur', err);
+    } else {
+      console.log('UUID mis à jour');
+    }
+  });
+}
+
+
+updateUsers();
 updateArticles();
 updateCategories();
 

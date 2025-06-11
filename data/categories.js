@@ -1,26 +1,26 @@
 export default [
   {
-    "id": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
+    "id": "162a40e6-3b94-4fc3-96f1-7237b4bcd709",
     "name": "transport"
   },
   {
-    "id": "cb7e0098-301a-47fe-90d0-80f1dede9904",
+    "id": "be60a8ef-5129-4eb9-881f-6ac72587393d",
     "name": "ticket"
   },
   {
-    "id": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
+    "id": "546468e5-28d9-4265-8483-d7f3faf500f6",
     "name": "camping"
   },
   {
-    "id": "5343a3d0-a850-45e5-a229-4ad7effd618a",
+    "id": "03c3e430-6180-4c90-bdf0-42384ca9f36d",
     "name": "music"
   },
   {
-    "id": "22d09dca-8783-4800-8621-7e67b0da9c33",
+    "id": "9fa7cc3e-b210-400d-8057-31b5cdbfee76",
     "name": "community"
   },
   {
-    "id": "0387c5e5-bd82-4282-929e-e4754844f4bf",
+    "id": "df5ce118-08a5-4c45-a576-81249766da43",
     "name": "safety"
   }
 ]
