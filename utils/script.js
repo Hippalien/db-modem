@@ -1,6 +1,6 @@
-import articles from "./data/articles.js";
-import categories from "./data/categories.js";
-import users from "./data/users.js";
+import articles from "../data/articles.js";
+import categories from "../data/categories.js";
+import users from "../data/users.js";
 import { v4 as uuidv4 } from 'uuid';
 import fs from 'fs'; // permet de lire, écrire ou ajouter un contenu à un fichier
 

@@ -1,5 +1,5 @@
-import articles from "./data/articles.js"
-import categories from "./data/categories.js";
+import articles from "../data/articles.js"
+import categories from "../data/categories.js";
 import fs from 'fs'; //permet de lire, écrire ou ajouter un contenu a un fichier, module natif Node js
 
 

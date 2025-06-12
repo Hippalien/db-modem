@@ -5,7 +5,12 @@ export default [
     "content": "Plan Ahead & Ride with Ease to MoDem Festival 2025!\n\n Locking in your travel plans early comes with its perks, and getting to Mo:Dem Festival couldn’t be simpler! We’ve got two convenient transport options to ensure a stress-free journey: Mo:Dem Express and Permansio Shuttle.\n\n 🚀 MO:DEM EXPRESS\n Enjoy a smooth, well-organized ride from/to Zagreb Airport, with a handy shopping stop along the way. Sit back, relax, and let us take care of the journey!\n\n 🚌 PERMANSIO SHUTTLE\n A premium, all-inclusive transport service connecting major cities and even shuttling from Ozora Festival. Perks include:\n\n ★ Skip the gate queue with direct entry to the festival camp\n ★ Tourist tax included in the fare\n ★ A shopping stop en route\n\n Secure your seat for Mo:Dem Express or Permansio Shuttle now at the Mo:Dem Shop\n\n • • • • • •\n Next Mo:Dem Festival is scheduled for August 4-10, 2025.\n\n Love. Passion. Commitment.Mo:Dem Crew\n https://modemfestival.com\n\n",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "March 13, 2025",
-    "id": "93cb25c5-bd61-4be9-9122-a3c9a56ee887"
+    "id": "93cb25c5-bd61-4be9-9122-a3c9a56ee887",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -13,7 +18,12 @@ export default [
     "content": "The two most frequently asked questions we receive are about\n\n “weekend tickets” and “the possibility of paying for your festival ticket in installments.”\n\n Well, we have some great news for all festival lovers!\nStarting this year, Mo:Dem Festival offers flexible payment options that allow you to split your ticket cost into smaller, manageable chunks.\nNo more stressing about the upfront payment—just choose the installment plan that suits your needs and lock in your spot for one of the most unforgettable music experiences of the year.\n\nTo get started, visit our shop and choose the installment option at checkout.\nIt is that simple!\n\nSee you on the dancefloor!",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "March 6, 2025",
-    "id": "c0bc0b9b-28cf-4cab-bfed-8ea3c9fc1b71"
+    "id": "c0bc0b9b-28cf-4cab-bfed-8ea3c9fc1b71",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -21,7 +31,12 @@ export default [
     "content": "Lifetime access to all Mo:Dem events is just a few clicks away.\n\n The Golden Ticket provides a few additional perks for you and a guest of your choice:\n\n • Lifetime entry to all future Mo:Dem Festivals\n • Exclusive backstage access\n • VIP amenities and fast-lane services\n • Personalized support from our crew\n\n Golden Tickets are extremely limited. Owning one means becoming a part of the Mo:Dem legacy.\n\n Head over to our official website and learn how to grab this once-in-a-lifetime opportunity.",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "November 29, 2024",
-    "id": "ddb8b640-e044-46f9-b2b3-33669b52b00e"
+    "id": "ddb8b640-e044-46f9-b2b3-33669b52b00e",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -29,7 +44,12 @@ export default [
     "content": "Mo:Dem Festival continues its commitment to sustainability by introducing a zero-waste policy and eco-friendly camping zones.\n\nJoin our eco-volunteers, participate in daily cleanups, and reduce your carbon footprint while enjoying the music.\n\nSmall changes make a big difference!\n\nVisit https://modemfestival.com/sustainability to learn more.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "March 15, 2025",
-    "id": "45adb23d-9e70-418f-a99c-62eec9baddcf"
+    "id": "45adb23d-9e70-418f-a99c-62eec9baddcf",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -37,7 +57,12 @@ export default [
     "content": "Psykomystic is one of the most anticipated live acts this year, bringing mind-bending rhythms and deep atmospheric layers.\n\nHis performance is scheduled for Thursday night at the Hive Stage.\n\nDon't miss the sonic journey through his psychedelic soundscapes!",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "March 18, 2025",
-    "id": "feb6cc2d-2a2d-436c-aa9a-89e581ade17d"
+    "id": "feb6cc2d-2a2d-436c-aa9a-89e581ade17d",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -45,7 +70,12 @@ export default [
     "content": "Want to be part of the magic?\n\nApplications for volunteers at Mo:Dem Festival 2025 are now open. Whether it's logistics, hospitality, or stage management, your energy is needed!\n\nPerks include a free ticket, free meals, and unforgettable experiences.\n\nApply now on https://modemfestival.com/volunteer",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "March 21, 2025",
-    "id": "f0d93ee1-50ff-448e-96e1-4fd8ebd1bb21"
+    "id": "f0d93ee1-50ff-448e-96e1-4fd8ebd1bb21",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -53,7 +83,12 @@ export default [
     "content": "This year we’re expanding our Chill Zone with new sound systems, ambient visuals, and healing workshops.\n\nRelax, breathe, and let the ambient frequencies guide you to inner peace.\n\nDiscover the full lineup of sound healers and ambient artists on our website.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "March 24, 2025",
-    "id": "2ccdc9e7-5937-4743-9995-16f51f0c25f5"
+    "id": "2ccdc9e7-5937-4743-9995-16f51f0c25f5",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -61,7 +96,12 @@ export default [
     "content": "Fresh Mo:Dem gear has landed!\n\nCheck out our new collection of eco-friendly festival clothing, posters, and accessories.\n\nAvailable online now – get yours before they sell out!\n\nShop: https://modemfestival.com/shop",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "March 27, 2025",
-    "id": "85f11e7d-2a20-480e-9935-c28c4b611cd1"
+    "id": "85f11e7d-2a20-480e-9935-c28c4b611cd1",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -69,7 +109,12 @@ export default [
     "content": "Get ready for the big reveal! Our 2025 lineup will be announced on April 1st.\n\nExpect returning legends, new discoveries, and a few surprises.\n\nFollow our socials or subscribe to our newsletter to be the first to know.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "March 29, 2025",
-    "id": "44d49f47-ed3f-4bde-b77a-559bac448526"
+    "id": "44d49f47-ed3f-4bde-b77a-559bac448526",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -77,7 +122,12 @@ export default [
     "content": "Our 2025 program will feature daily workshops and talks on music production, psychedelic culture, sustainability, and more.\n\nStay tuned for the full schedule and join us in learning, growing, and exchanging ideas!",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "April 1, 2025",
-    "id": "d27e4685-d719-4997-b97a-71d7699781e1"
+    "id": "d27e4685-d719-4997-b97a-71d7699781e1",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -85,7 +135,12 @@ export default [
     "content": "First time at Mo:Dem?\n\nWe've got you covered with a comprehensive guide on what to bring, where to camp, and how to make the most of your experience.\n\nCheck the tips section at: https://modemfestival.com/tips",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "April 3, 2025",
-    "id": "d147d7b9-e894-4044-a5f0-4a447ad5be55"
+    "id": "d147d7b9-e894-4044-a5f0-4a447ad5be55",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -93,7 +148,12 @@ export default [
     "content": "Your safety is our priority.\n\nOur Safe & Sound team will be available 24/7 to provide support for physical and emotional well-being.\n\nLook for the purple flags or find us at the Safe Hub.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "April 5, 2025",
-    "id": "c1b674b9-3adf-410a-b3fe-e9a9fc1d0b7d"
+    "id": "c1b674b9-3adf-410a-b3fe-e9a9fc1d0b7d",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -101,7 +161,12 @@ export default [
     "content": "New shaded areas, improved sanitation, and more water stations await you in this year’s camping zone.\n\nUpgrade to Mo:Dem Eco Camp for extra comfort and sustainability perks!",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "April 7, 2025",
-    "id": "0d1af671-495d-4d2f-ab61-bb3dd54dfc45"
+    "id": "0d1af671-495d-4d2f-ab61-bb3dd54dfc45",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -109,7 +174,12 @@ export default [
     "content": "Each year, Mo:Dem’s main stage transforms into an art piece blending architecture and psychedelic culture.\n\nIn 2025, we collaborate with visionary designers from Brazil, Croatia, and Japan.\n\nCheck our blog for a behind-the-scenes look at the construction process.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "April 10, 2025",
-    "id": "5d79afd0-0c34-4cca-b6c3-459b483fc862"
+    "id": "5d79afd0-0c34-4cca-b6c3-459b483fc862",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -117,7 +187,12 @@ export default [
     "content": "Mo:Dem’s food court features vegan, vegetarian, and world cuisine options. This year we welcome 15 new food trucks, including local Croatian specialties.\n\nMenus will be published soon, stay hungry!",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "April 13, 2025",
-    "id": "872671de-d8ef-4078-baff-77235a4e6762"
+    "id": "872671de-d8ef-4078-baff-77235a4e6762",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -125,7 +200,12 @@ export default [
     "content": "Behind the crystal-clear Mo:Dem sound are the unsung heroes – our sound engineers.\n\nThey ensure each bass drop hits just right. In this article, meet the team that makes it possible.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "April 15, 2025",
-    "id": "877d0b42-3e3a-44d7-9cac-519b59e82192"
+    "id": "877d0b42-3e3a-44d7-9cac-519b59e82192",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -133,7 +213,12 @@ export default [
     "content": "With so much to see and do, it’s easy to get overwhelmed.\n\nOur official Mo:Dem App will soon launch, allowing you to build a personalized schedule and get live notifications for your favorite sets.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "April 17, 2025",
-    "id": "96751ad6-739b-4f26-8bf4-854149d04590"
+    "id": "96751ad6-739b-4f26-8bf4-854149d04590",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -141,7 +226,12 @@ export default [
     "content": "Mo:Dem is family-friendly! Our Kidz Dome offers activities, music, and workshops for the little ones.\n\nParents can find more info about our child safety policy and facilities on our Family Zone page.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "April 20, 2025",
-    "id": "0ef78071-4208-4814-8fe4-6bfb61702c48"
+    "id": "0ef78071-4208-4814-8fe4-6bfb61702c48",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -149,7 +239,12 @@ export default [
     "content": "At night, Mo:Dem becomes a galaxy of projections.\n\nThis year’s VJ team includes international names who’ll bring digital dreams to life across the stages.\n\nRead about the themes behind this year’s visual story.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "April 22, 2025",
-    "id": "2c31f7d7-1be5-4850-9e7a-d05b77ba0b1f"
+    "id": "2c31f7d7-1be5-4850-9e7a-d05b77ba0b1f",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -157,7 +252,12 @@ export default [
     "content": "Our Healing Area is growing to host over 30 daily activities including yoga, breathwork, massage therapy, and sound healing.\n\nBooking opens one month before the festival. Stay tuned for details!",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "April 25, 2025",
-    "id": "c7c2b681-507c-467c-a5ef-f38fe6f13ac8"
+    "id": "c7c2b681-507c-467c-a5ef-f38fe6f13ac8",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -165,7 +265,12 @@ export default [
     "content": "Stay cool, organized, and eco-friendly with these top tips from seasoned Mo:Dem campers.\n\nLearn what to pack, how to stay hydrated, and how to keep your gear dry during surprise showers!",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "April 27, 2025",
-    "id": "ee45c3d5-9127-4e2e-85fb-6a4c6c59cb1d"
+    "id": "ee45c3d5-9127-4e2e-85fb-6a4c6c59cb1d",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -173,7 +278,12 @@ export default [
     "content": "Mo:Dem welcomes visual artists, performers, and installation creators to join the 2025 edition.\n\nSubmit your proposal before May 15. Selected projects will receive funding and support.\n\nDetails: modemfestival.com/artcall",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "April 30, 2025",
-    "id": "a3f7bd56-8f17-42a8-add8-4975c9800b43"
+    "id": "a3f7bd56-8f17-42a8-add8-4975c9800b43",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -181,7 +291,12 @@ export default [
     "content": "Relive the magic! The official 2024 aftermovie is now available on our YouTube channel.\n\nWatch stunning visuals, epic crowd moments, and backstage glimpses.\n\nShare the vibe with your friends and get hyped for 2025!",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 2, 2025",
-    "id": "79aaf9a6-5e44-4422-9423-4cf691f6ab55"
+    "id": "79aaf9a6-5e44-4422-9423-4cf691f6ab55",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -189,7 +304,12 @@ export default [
     "content": "Mo:Dem takes sustainability seriously. Our Zero Waste initiative includes compostable dishware, recycling stations, and a ‘leave no trace’ policy.\n\nVolunteers and participants are essential to keeping our site clean and green.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "May 4, 2025",
-    "id": "c806cf1d-8346-454e-966b-f416f9d42b32"
+    "id": "c806cf1d-8346-454e-966b-f416f9d42b32",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -197,7 +317,12 @@ export default [
     "content": "This legendary psytrance duo returns to Mo:Dem for a cosmic live set.\n\nWe sat down with Avi & Lior to discuss their musical journey and what to expect in their 2025 performance.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 7, 2025",
-    "id": "79fc8ecd-e2eb-4143-a6cc-8ff4832ea6c7"
+    "id": "79fc8ecd-e2eb-4143-a6cc-8ff4832ea6c7",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -205,7 +330,12 @@ export default [
     "content": "We’re a cashless festival. All purchases onsite are made using our RFID wristbands.\n\nTop up at designated booths or online through your Mo:Dem account.\n\nRefunds for unused balance are possible until two weeks after the festival.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 9, 2025",
-    "id": "f4505c07-23ec-47bb-9af6-ace8bb3ef672"
+    "id": "f4505c07-23ec-47bb-9af6-ace8bb3ef672",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -213,7 +343,12 @@ export default [
     "content": "Be part of the team! Volunteer roles include setup crew, info point staff, recycling guides, and more.\n\nVolunteers get free entry and a behind-the-scenes experience.\n\nApply before May 31 on our website.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 11, 2025",
-    "id": "7b7d7360-f838-43c3-95ce-c62504e61994"
+    "id": "7b7d7360-f838-43c3-95ce-c62504e61994",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -221,7 +356,12 @@ export default [
     "content": "New monthly podcast episodes feature exclusive sets, artist interviews, and behind-the-scenes stories.\n\nAvailable on Spotify, Apple Podcasts, and our website.\n\nSubscribe to stay connected to the Mo:Dem vibe all year round.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 14, 2025",
-    "id": "9237eafc-9cdd-46b7-858e-6643173c07df"
+    "id": "9237eafc-9cdd-46b7-858e-6643173c07df",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -229,7 +369,12 @@ export default [
     "content": "We’re committed to making Mo:Dem accessible for all. In 2025, we’ve improved paths, added accessible toilets, and introduced a dedicated support team.\n\nContact us ahead of time with any special needs or questions.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 16, 2025",
-    "id": "582bd9d3-cbdd-4770-a55a-16c8df240867"
+    "id": "582bd9d3-cbdd-4770-a55a-16c8df240867",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -237,7 +382,12 @@ export default [
     "content": "Small changes make a big difference. Our eco-camping guide shows how to reduce waste, save energy, and respect nature at the festival.\n\nDownload it from our website or pick up a printed copy on arrival.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 18, 2025",
-    "id": "56550525-3511-4f7d-916c-38ac542bc391"
+    "id": "56550525-3511-4f7d-916c-38ac542bc391",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -245,7 +395,12 @@ export default [
     "content": "Step into a glowing forest of sound and light. ‘Luminescence’ is an interactive walk-through installation making its Mo:Dem debut in 2025.\n\nCreated by the LightAlchemy Collective, it reacts to movement and music.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 20, 2025",
-    "id": "ab4be6e6-c368-44ac-93a7-8d84cb69c5be"
+    "id": "ab4be6e6-c368-44ac-93a7-8d84cb69c5be",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -253,7 +408,12 @@ export default [
     "content": "Limited edition Mo:Dem 2025 merch is dropping next week!\n\nFrom organic cotton tees to handmade jewelry and recycled gear bags — everything is designed by our in-house artist collective.\n\nPreview the collection online.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 23, 2025",
-    "id": "fc61c806-e9c0-4d2b-b6f5-4236673d933b"
+    "id": "fc61c806-e9c0-4d2b-b6f5-4236673d933b",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -261,7 +421,12 @@ export default [
     "content": "New to Mo:Dem? We’ve got your back.\n\nThis guide covers transport, camping, what to pack, how to meet people, and how to dive deep into the experience without getting overwhelmed.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 25, 2025",
-    "id": "536c44d2-99ec-48fb-b425-5db1d994854e"
+    "id": "536c44d2-99ec-48fb-b425-5db1d994854e",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -269,7 +434,12 @@ export default [
     "content": "Join our annual Forest Clean-Up mission before the festival kicks off! 🌲\n\nThis initiative gathers volunteers to help clean the surrounding nature and prepare the grounds for a sustainable event.\n\n🧤 What to bring:\n• Gloves\n• Reusable bags\n• Lots of good energy!\n\nSign-up starts in June on our website.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "April 28, 2025",
-    "id": "1dbe1e2e-50c4-4fa1-8838-43c19b464c0f"
+    "id": "1dbe1e2e-50c4-4fa1-8838-43c19b464c0f",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -277,7 +447,12 @@ export default [
     "content": "Lila Rose is returning to the Mo:Dem stage with a brand new audio-visual set that promises to shake the forest floor.\n\nExpect deep grooves, experimental textures, and some exclusive tracks created just for this edition.\n\n🌟 Don’t miss her headline slot on Thursday night!",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "April 29, 2025",
-    "id": "f6cdee5d-7c63-4931-ba87-68650a8ba883"
+    "id": "f6cdee5d-7c63-4931-ba87-68650a8ba883",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -285,7 +460,12 @@ export default [
     "content": "Not sure what to bring to Mo:Dem Festival?\n\n🧳 Here’s a quick checklist:\n• Tent + sleeping bag\n• Solar charger\n• Biodegradable soap\n• Reusable water bottle\n• Warm layer for the night\n\nTravel light, travel smart, and respect nature 🌿",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 1, 2025",
-    "id": "7941ae88-c066-4fdc-905c-32e7c18cd7b6"
+    "id": "7941ae88-c066-4fdc-905c-32e7c18cd7b6",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -293,7 +473,12 @@ export default [
     "content": "Our Healing Area lineup is live!\n\n🧘‍♀️ Daily activities:\n• Morning yoga sessions\n• Sound healing journeys\n• Breathwork & meditation\n\nPlus, holistic therapies from international practitioners. Come recharge your soul.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 3, 2025",
-    "id": "45494f46-b219-413e-b097-519a84292d8e"
+    "id": "45494f46-b219-413e-b097-519a84292d8e",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -301,7 +486,12 @@ export default [
     "content": "The Performance Art Zone is back!\n\nThis year, expect a range of live visual performances, fire shows, aerial acrobatics, and spontaneous happenings around the camp.\n\n🔥 Get ready for art that moves, breathes, and glows.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 4, 2025",
-    "id": "2c17cc9e-e0ad-40c3-9d8c-cc5be51a3b3e"
+    "id": "2c17cc9e-e0ad-40c3-9d8c-cc5be51a3b3e",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -309,7 +499,12 @@ export default [
     "content": "Explore the delicious world of plant-based cuisine in our expanded food court!\n\n🍜 Featured vendors:\n• Gaia Bowls\n• Jungle Kitchen\n• Soulful Spoon\n\nFuel your dance with healthy, tasty meals 🌱",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 5, 2025",
-    "id": "5450c84b-e886-4c3a-a27a-443a20f67179"
+    "id": "5450c84b-e886-4c3a-a27a-443a20f67179",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -317,7 +512,12 @@ export default [
     "content": "New to Mo:Dem? Here are our top 5 camping tips:\n\n1. Pick shaded areas early\n2. Use flags to spot your tent\n3. Share space and gear\n4. Secure valuables\n5. Respect quiet hours 💫",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "May 6, 2025",
-    "id": "769e1a1d-3e9f-46dd-b31b-6d230f6922f3"
+    "id": "769e1a1d-3e9f-46dd-b31b-6d230f6922f3",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -325,7 +525,12 @@ export default [
     "content": "Your safety is our priority.\n\n👮‍♂️ Festival security will patrol the grounds 24/7.\n\n✅ What you need:\n• Wristband at all times\n• Emergency contact card\n• Be aware, be kind, and look out for each other.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 7, 2025",
-    "id": "9cdc221d-b6ce-4738-9ceb-39db29b6a431"
+    "id": "9cdc221d-b6ce-4738-9ceb-39db29b6a431",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -333,7 +538,12 @@ export default [
     "content": "Join our daily Sunset Ceremonies at the Chillout Garden.\n\nThese sacred gatherings are a space to breathe, reflect, and connect.\n\n🌅 Drumming, chanting, and intention setting await.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 8, 2025",
-    "id": "5a9a1355-26c7-4cb2-ba1b-efa06b444425"
+    "id": "5a9a1355-26c7-4cb2-ba1b-efa06b444425",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -341,7 +551,12 @@ export default [
     "content": "We've added even more recycling stations this year.\n\n♻️ Find the full map at entry points and on our app.\n\nPlease separate:\n• Plastic\n• Glass\n• Organic waste\n\nTogether we reduce the footprint 🌍",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 9, 2025",
-    "id": "6ed0bf22-0502-426c-b6db-1216c6c16cee"
+    "id": "6ed0bf22-0502-426c-b6db-1216c6c16cee",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -349,7 +564,12 @@ export default [
     "content": "Have you lost something? Our Lost & Found booth is located near the main entrance.\n\n⏰ Opening Hours:\n• 10:00 to 22:00 daily\n\n💡 Pro tip: Label your belongings and take photos before you arrive.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 10, 2025",
-    "id": "b46e641a-2a62-4f64-8a45-06fbfc8991d9"
+    "id": "b46e641a-2a62-4f64-8a45-06fbfc8991d9",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -357,7 +577,12 @@ export default [
     "content": "Get ready to expand your mind! ✨\n\nOur 2025 workshop lineup features:\n• Conscious Communication\n• Permaculture 101\n• Psytrance History Talks\n\nStay tuned for the full schedule in June.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 11, 2025",
-    "id": "d8722a29-4f42-4ba4-8b80-a7914b305bbd"
+    "id": "d8722a29-4f42-4ba4-8b80-a7914b305bbd",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -365,7 +590,12 @@ export default [
     "content": "Want to be part of the Mo:Dem magic?\n\n🎪 We’re looking for:\n• Kitchen helpers\n• Recycling crew\n• Artist liaisons\n\nApplications open May 15 at modemfestival.com/volunteer",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 12, 2025",
-    "id": "9a91ec1a-8459-4b62-9fc5-de7185e534ad"
+    "id": "9a91ec1a-8459-4b62-9fc5-de7185e534ad",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -373,7 +603,12 @@ export default [
     "content": "The wait is over!\n\n🌀 Main Stage, Swamp, and Chillout lineups are now live on our website.\n\nHeadliners include:\n• Grouch\n• Liquid Bloom\n• Hypogeo\n\nDownload your printable schedule today!",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 13, 2025",
-    "id": "007c9f23-a2df-48dc-a17a-16b72351b61f"
+    "id": "007c9f23-a2df-48dc-a17a-16b72351b61f",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -381,7 +616,12 @@ export default [
     "content": "Are you a Mo:Dem newbie?\n\n👣 Here’s how to prepare:\n• Join our welcome tour on Day 1\n• Follow the Mo:Dem Buddy Program\n• Stay hydrated + rest between sets\n\nMake it magical and safe 🌟",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "May 14, 2025",
-    "id": "70163f70-fe7e-4b3d-b06f-a3cefc5382bf"
+    "id": "70163f70-fe7e-4b3d-b06f-a3cefc5382bf",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -389,7 +629,12 @@ export default [
     "content": "This year, Mo:Dem goes greener!\n\n🥤 All drinks will be served in reusable cups. A €2 deposit is required at the bar.\n\nPlease return your cup or reuse it throughout the festival. Let’s reduce waste together.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 15, 2025",
-    "id": "2eb7b231-ff91-4e91-a44e-db47d6e4415e"
+    "id": "2eb7b231-ff91-4e91-a44e-db47d6e4415e",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -397,7 +642,12 @@ export default [
     "content": "From festival merch to handmade crafts, our shop area has it all!\n\n🛍️ Highlights:\n• Limited-edition T-shirts\n• Eco water flasks\n• Local artisan booths\n\nSupport the community and bring home a memory!",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 16, 2025",
-    "id": "4c859f08-8486-4854-b324-f04bd41fc649"
+    "id": "4c859f08-8486-4854-b324-f04bd41fc649",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -405,7 +655,12 @@ export default [
     "content": "A new addition to the Healing Area:\n\n🌑 Shadow Work Circle with Luna Rhea invites you to explore your unconscious patterns in a safe, guided space.\n\nSessions are free but spots are limited.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 17, 2025",
-    "id": "4ada177d-b837-47cb-9442-47069b21e438"
+    "id": "4ada177d-b837-47cb-9442-47069b21e438",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -413,7 +668,12 @@ export default [
     "content": "We’re thrilled to announce our featured aerialists:\n\n🎪 Expect silk dancers, hoop aerialists, and LED-infused acrobatics.\n\nShows take place every evening at the Performance Dome.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 18, 2025",
-    "id": "5205710b-cca1-4c4b-95af-ec671bc2b45c"
+    "id": "5205710b-cca1-4c4b-95af-ec671bc2b45c",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -421,7 +681,12 @@ export default [
     "content": "Celebrate identity and creativity with tribal body painting!\n\n🎨 Located at the River Garden, these sessions allow you to be both canvas and creator.\n\nOrganic, skin-safe paints only.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 19, 2025",
-    "id": "308a6368-4613-47b3-befd-66387b05d697"
+    "id": "308a6368-4613-47b3-befd-66387b05d697",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -429,7 +694,12 @@ export default [
     "content": "Experience the vibrant Night Market under the stars!\n\n🛒 Find exotic foods, crafts, and live performances every night from 8 PM to midnight.\n\nDon’t miss the artisan lantern workshop on Friday.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 20, 2025",
-    "id": "e013ec6e-86c7-4cc3-bd32-85e3755298d6"
+    "id": "e013ec6e-86c7-4cc3-bd32-85e3755298d6",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -437,7 +707,12 @@ export default [
     "content": "Mo:Dem is family-friendly! Our Kids Area offers:\n\n🎈 Creative arts and crafts\n🤹‍♂️ Circus skills classes\n📚 Storytelling circles\n\nParents can relax while kids explore safely.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 21, 2025",
-    "id": "b3b19b52-c63f-4823-9b7b-c22728a0d5eb"
+    "id": "b3b19b52-c63f-4823-9b7b-c22728a0d5eb",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -445,7 +720,12 @@ export default [
     "content": "In line with our eco-policy, single-use plastics are banned on-site.\n\n🚫 Say no to plastic bags, straws, and cutlery.\n\nReusable alternatives will be available at all food stalls.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 22, 2025",
-    "id": "5a1e9a01-ed95-462b-ab24-bc73467ada98"
+    "id": "5a1e9a01-ed95-462b-ab24-bc73467ada98",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -453,7 +733,12 @@ export default [
     "content": "This year’s art installations are breathtaking!\n\n🎨 Explore interactive sculptures, light shows, and immersive sound gardens.\n\nGuided tours daily at 3 PM from the Info Point.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 23, 2025",
-    "id": "46fe58aa-791c-437d-ab9a-6a32949ef630"
+    "id": "46fe58aa-791c-437d-ab9a-6a32949ef630",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -461,7 +746,12 @@ export default [
     "content": "Find your inner peace with daily yoga and meditation sessions:\n\n🧘‍♀️ Morning flow at 7 AM\n🧘‍♂️ Sunset meditation at 6 PM\n\nAll levels welcome, mats provided on a first-come basis.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 24, 2025",
-    "id": "c2b290dc-39aa-413e-98a4-59fef1813e00"
+    "id": "c2b290dc-39aa-413e-98a4-59fef1813e00",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -469,7 +759,12 @@ export default [
     "content": "Taste the best of local cuisine!\n\n🍲 Featuring organic, vegan, and gluten-free options.\n\nMeet the chefs at the daily cooking demos from 4 PM.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "May 25, 2025",
-    "id": "765b20b8-167e-4942-a018-8b771a74c187"
+    "id": "765b20b8-167e-4942-a018-8b771a74c187",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -477,7 +772,12 @@ export default [
     "content": "Join industry leaders and activists in a lively panel on sustainability practices in festivals.\n\n📅 Saturday, 2 PM at the Green Tent.\n\nBring your questions and ideas!",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "May 26, 2025",
-    "id": "804df075-856f-4382-9d5f-8c174ffce4d9"
+    "id": "804df075-856f-4382-9d5f-8c174ffce4d9",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -485,7 +785,12 @@ export default [
     "content": "Stay connected with our free WiFi zones across the festival grounds.\n\n📶 Tips:\n• Connect early to avoid overload\n• Use VPN for privacy\n• Keep devices charged with our charging stations",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 27, 2025",
-    "id": "cc4c4de1-ef09-4318-bc62-cb8de008283d"
+    "id": "cc4c4de1-ef09-4318-bc62-cb8de008283d",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -493,7 +798,12 @@ export default [
     "content": "Your safety is our priority.\n\n👮 Professional security teams on-site 24/7.\n• Emergency tents\n• Lost & Found\n• Medical assistance\n\nPlease report any suspicious activity immediately.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "May 28, 2025",
-    "id": "1a333491-8b1a-4aa4-834c-97ee4254b626"
+    "id": "1a333491-8b1a-4aa4-834c-97ee4254b626",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -501,7 +811,12 @@ export default [
     "content": "Help us keep Mo:Dem clean by sorting your waste correctly.\n\n♻️ Bins for recycling, compost, and landfill clearly marked.\n\nVolunteers will assist you throughout the site.",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "May 29, 2025",
-    "id": "3ea54988-0a11-417b-b942-c4cc95bf0037"
+    "id": "3ea54988-0a11-417b-b942-c4cc95bf0037",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -509,7 +824,12 @@ export default [
     "content": "Enjoy live music as the sun sets every evening!\n\n🎸 Genres ranging from indie to electronic.\n\nConcerts start at 7 PM near the main stage.\n\nBring your friends and unwind.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "May 30, 2025",
-    "id": "ebe26b4b-7431-4681-bf05-ccaa9d9f32be"
+    "id": "ebe26b4b-7431-4681-bf05-ccaa9d9f32be",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -517,7 +837,12 @@ export default [
     "content": "Meet some of the amazing volunteers making Mo:Dem happen!\n\n🙌 From site setup to crowd assistance, their work is invaluable.\n\nInterested in volunteering? Sign up now.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "May 31, 2025",
-    "id": "3449c099-8c7e-4510-8b1c-63eac0ee16f8"
+    "id": "3449c099-8c7e-4510-8b1c-63eac0ee16f8",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -525,7 +850,12 @@ export default [
     "content": "Safety first! Familiarize yourself with emergency exits and procedures.\n\n🚨 Emergency contact points are clearly marked.\n\nAttend the safety briefing on opening day at 10 AM.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "June 1, 2025",
-    "id": "69a6ac13-dd60-4c72-916e-f9813eb0c3e0"
+    "id": "69a6ac13-dd60-4c72-916e-f9813eb0c3e0",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -533,7 +863,12 @@ export default [
     "content": "Pre-order your official Mo:Dem merchandise online.\n\n👕 T-shirts, hoodies, and exclusive limited editions.\n\nPick up your order at the festival or get it shipped to your home.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "June 2, 2025",
-    "id": "f8c22f44-a2a3-4226-a1a6-10ef7aa65341"
+    "id": "f8c22f44-a2a3-4226-a1a6-10ef7aa65341",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -541,7 +876,12 @@ export default [
     "content": "Upgrade your camping experience:\n\n🏕️ Premium tent spots with shade and power hookups.\n\nReserve early to guarantee your spot close to main amenities.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "June 3, 2025",
-    "id": "f195795b-6e9e-44c6-8711-01b1ec6689ff"
+    "id": "f195795b-6e9e-44c6-8711-01b1ec6689ff",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -549,7 +889,12 @@ export default [
     "content": "Join workshops celebrating diverse cultures:\n\n🌍 Dance, music, and craft sessions led by local artists.\n\nPerfect for all ages and skill levels.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "June 4, 2025",
-    "id": "9e66f80b-096d-47ed-8400-0b424ddb91e6"
+    "id": "9e66f80b-096d-47ed-8400-0b424ddb91e6",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -557,7 +902,12 @@ export default [
     "content": "Download the official Mo:Dem Festival app for schedules, maps, and updates.\n\n📲 Available on iOS and Android.\n\nStay connected and never miss a beat!",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "June 5, 2025",
-    "id": "425f0c3c-748a-45ab-ae84-4fbff21480de"
+    "id": "425f0c3c-748a-45ab-ae84-4fbff21480de",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -565,7 +915,12 @@ export default [
     "content": "Explore eco-friendly ways to get to Mo:Dem:\n\n🚲 Bike rentals and shuttle services from major cities.\n\nCarpool incentives available.\n\nHelp reduce our carbon footprint.",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "June 6, 2025",
-    "id": "1a92e045-211d-4453-9b00-e806c0a8261d"
+    "id": "1a92e045-211d-4453-9b00-e806c0a8261d",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -573,7 +928,12 @@ export default [
     "content": "Exciting new food trucks joining this year’s festival:\n\n🍔 Gourmet burgers, vegan treats, and international flavors.\n\nOpen from noon until late every day.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "June 7, 2025",
-    "id": "afc469a7-0021-4cfc-87cb-2471b62644f9"
+    "id": "afc469a7-0021-4cfc-87cb-2471b62644f9",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -581,7 +941,12 @@ export default [
     "content": "Please respect the community and environment.\n\n🤝 Zero tolerance for harassment or discrimination.\n\nHelp us create a safe, welcoming space for everyone.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "June 8, 2025",
-    "id": "8e7a0a65-200d-4c5d-a007-2f0409ce1757"
+    "id": "8e7a0a65-200d-4c5d-a007-2f0409ce1757",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -589,7 +954,12 @@ export default [
     "content": "Volunteers receive exclusive perks:\n\n🎟️ Free entry, merch discounts, and backstage access.\n\nJoin the team and be part of the Mo:Dem family!",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "June 9, 2025",
-    "id": "4392715a-8699-4871-8214-8f6eeb06892c"
+    "id": "4392715a-8699-4871-8214-8f6eeb06892c",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -597,7 +967,12 @@ export default [
     "content": "Discover stunning art pieces by renowned artists:\n\n🎨 Interactive installations across the festival grounds.\n\nExperience creativity like never before.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "June 10, 2025",
-    "id": "ad46483f-e9d8-4ffa-b1e5-0671d8ee3cef"
+    "id": "ad46483f-e9d8-4ffa-b1e5-0671d8ee3cef",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -605,7 +980,12 @@ export default [
     "content": "Mo:Dem Festival is committed to sustainability:\n\n🌿 Waste reduction, recycling stations, and renewable energy use.\n\nLearn how you can help preserve the planet.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "June 11, 2025",
-    "id": "3f2e1cd9-49ca-45b1-a779-4511b59124e5"
+    "id": "3f2e1cd9-49ca-45b1-a779-4511b59124e5",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -613,7 +993,12 @@ export default [
     "content": "Family-friendly fun at the Kids Zone:\n\n🎈 Games, workshops, and safe play areas.\n\nPerfect for young festival-goers and their parents.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "June 12, 2025",
-    "id": "6e586dc1-3c50-4e88-8243-b9eab025d9c8"
+    "id": "6e586dc1-3c50-4e88-8243-b9eab025d9c8",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -621,7 +1006,12 @@ export default [
     "content": "Learn from the best with interactive workshops:\n\n🎤 DJ skills, instrument lessons, and songwriting.\n\nAll levels welcome!",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "June 13, 2025",
-    "id": "91cd2023-4de4-41ca-adbe-e513eb2b152a"
+    "id": "91cd2023-4de4-41ca-adbe-e513eb2b152a",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -629,7 +1019,12 @@ export default [
     "content": "Pop-up stores around the grounds selling exclusive gear:\n\n👕 Limited edition tees, posters, and accessories.\n\nDon’t miss out!",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "June 14, 2025",
-    "id": "249e1232-f872-4e4c-a7bd-95f37804a000"
+    "id": "249e1232-f872-4e4c-a7bd-95f37804a000",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -637,7 +1032,12 @@ export default [
     "content": "Keep the party going with late-night performances:\n\n🌙 DJs and live acts from 11 PM until dawn.\n\nCheck the schedule for locations.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "June 15, 2025",
-    "id": "72319c11-ee9a-4656-b1e1-eb55335b6bb5"
+    "id": "72319c11-ee9a-4656-b1e1-eb55335b6bb5",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -645,7 +1045,12 @@ export default [
     "content": "Relax and recharge at the wellness area:\n\n🧘 Yoga sessions, massage spots, and chill zones.\n\nTake care of your mind and body during the festival.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "June 16, 2025",
-    "id": "29b67c33-b541-45f4-87a2-001e3347315e"
+    "id": "29b67c33-b541-45f4-87a2-001e3347315e",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -653,7 +1058,12 @@ export default [
     "content": "Proudly partnering with local businesses and sponsors:\n\n🤝 Supporting community growth and sustainability.\n\nLearn more about our partners.",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "June 17, 2025",
-    "id": "03c6996f-9e0c-4b9a-9998-5de59cacb346"
+    "id": "03c6996f-9e0c-4b9a-9998-5de59cacb346",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -661,7 +1071,12 @@ export default [
     "content": "Lost something? Visit our Lost & Found tent:\n\n📦 Safe storage for lost items and quick claims.\n\nOpen during all festival hours.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "June 18, 2025",
-    "id": "b4a4e6ae-eaff-49c9-b1ea-0671c9f9b7e0"
+    "id": "b4a4e6ae-eaff-49c9-b1ea-0671c9f9b7e0",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -669,7 +1084,12 @@ export default [
     "content": "Taste the best local cuisine from a variety of food trucks:\n\n🍔 Vegan, gluten-free, and traditional options available.\n\nFuel your festival experience with great food!",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "June 19, 2025",
-    "id": "607c1043-a78a-440b-bfac-61dfa81aac83"
+    "id": "607c1043-a78a-440b-bfac-61dfa81aac83",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -677,7 +1097,12 @@ export default [
     "content": "Your safety is our priority:\n\n🚑 Medical tents and emergency teams are available 24/7.\n\nDon’t hesitate to seek help if needed.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "June 20, 2025",
-    "id": "74d6b8b3-fabe-46b4-a471-e0d80537c059"
+    "id": "74d6b8b3-fabe-46b4-a471-e0d80537c059",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -685,7 +1110,12 @@ export default [
     "content": "Enhance your festival visit with VIP upgrades:\n\n🎟️ Exclusive lounges, fast entry, and premium amenities.\n\nTreat yourself to the best Mo:Dem has to offer.",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "June 21, 2025",
-    "id": "310ce8d3-bf9f-40ba-96ff-7f6e2ac05564"
+    "id": "310ce8d3-bf9f-40ba-96ff-7f6e2ac05564",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Elodie",
+    "updated_by": "Elodie"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -693,7 +1123,12 @@ export default [
     "content": "Planning to camp at Mo:Dem? Here’s what you need to know:\n\n🏕️ Allowed items, quiet hours, and safety tips.\n\nMake your stay comfortable and safe.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "June 22, 2025",
-    "id": "33c7c5dd-90a1-43e1-8c72-f91e972ebb88"
+    "id": "33c7c5dd-90a1-43e1-8c72-f91e972ebb88",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -701,7 +1136,12 @@ export default [
     "content": "Explore workshops and performances celebrating diverse cultures:\n\n🌍 Dance, art, and music from around the world.\n\nEnrich your festival experience beyond music.",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "June 23, 2025",
-    "id": "775af428-7d3c-4371-ba43-39f54548de37"
+    "id": "775af428-7d3c-4371-ba43-39f54548de37",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -709,7 +1149,12 @@ export default [
     "content": "Stay connected with the official Mo:Dem Festival app:\n\n📱 Lineup schedules, maps, and real-time updates.\n\nDownload now to enhance your experience.",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "June 24, 2025",
-    "id": "35759177-da5c-483f-aa90-c3090c096464"
+    "id": "35759177-da5c-483f-aa90-c3090c096464",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -717,7 +1162,12 @@ export default [
     "content": "Keep hydrated during the festival:\n\n💧 Free water refill stations across the grounds.\n\nRemember to drink regularly to stay healthy.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "June 25, 2025",
-    "id": "56b7e20e-7960-47f1-8170-b7d5347d7484"
+    "id": "56b7e20e-7960-47f1-8170-b7d5347d7484",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle1.jpg",
@@ -725,7 +1175,12 @@ export default [
     "content": "Limited edition merchandise available only at the festival:\n\n👕 Posters, apparel, and accessories featuring this year’s theme.\n\nGrab yours before they sell out!",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "June 26, 2025",
-    "id": "eb623774-827f-4e40-b91b-6d0c6487efac"
+    "id": "eb623774-827f-4e40-b91b-6d0c6487efac",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Vaïa",
+    "updated_by": "Vaïa"
   },
   {
     "image": "/images/ImgArticle2.jpg",
@@ -733,7 +1188,12 @@ export default [
     "content": "Get to know DJ Nova, one of our headliners:\n\n🎧 Influenced by techno and house, Nova’s sets are a journey.\n\nDon’t miss the exclusive interview and playlist.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "June 27, 2025",
-    "id": "5d81e335-79aa-431a-a4e0-b2d11f5a2283"
+    "id": "5d81e335-79aa-431a-a4e0-b2d11f5a2283",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle3.jpg",
@@ -741,7 +1201,12 @@ export default [
     "content": "Latest info on festival transport services:\n\n🚍 Changes in shuttle schedules and routes.\n\nPlan your trip accordingly to avoid delays.",
     "category": "a85f745e-9431-411c-9c4c-d3cffa444e1d",
     "date": "June 28, 2025",
-    "id": "bae39c49-2182-4dad-a8ae-53fdcb730eef"
+    "id": "bae39c49-2182-4dad-a8ae-53fdcb730eef",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle4.jpg",
@@ -749,7 +1214,12 @@ export default [
     "content": "Mo:Dem Festival is committed to reducing its environmental impact:\n\n♻️ Waste sorting stations and eco-friendly materials.\n\nJoin us in keeping the festival green!",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "June 29, 2025",
-    "id": "a2cf2be9-3226-4fff-ad3c-111ac66a9287"
+    "id": "a2cf2be9-3226-4fff-ad3c-111ac66a9287",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle5.jpg",
@@ -757,7 +1227,12 @@ export default [
     "content": "Become part of the Mo:Dem team:\n\n🤝 Help with logistics, info desks, and crowd management.\n\nGet exclusive perks and a behind-the-scenes experience.",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "June 30, 2025",
-    "id": "4734813b-4f40-493a-bf59-7c47c81dc0a4"
+    "id": "4734813b-4f40-493a-bf59-7c47c81dc0a4",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle6.jpg",
@@ -765,7 +1240,12 @@ export default [
     "content": "Check out our updated FAQ section:\n\n Answers to common questions about tickets, camping, and more.\n\nEverything you need to know before you arrive.",
     "category": "cb7e0098-301a-47fe-90d0-80f1dede9904",
     "date": "July 1, 2025",
-    "id": "2c0e7373-376b-48ad-aa5c-4ef613e1501a"
+    "id": "2c0e7373-376b-48ad-aa5c-4ef613e1501a",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   },
   {
     "image": "/images/ImgArticle7.jpg",
@@ -773,7 +1253,12 @@ export default [
     "content": "Preview the incredible art installations planned for this year:\n\n🎨 Interactive sculptures, light shows, and murals.\n\nExperience creativity all around the festival grounds.",
     "category": "5343a3d0-a850-45e5-a229-4ad7effd618a",
     "date": "July 2, 2025",
-    "id": "ac81dcf3-6d16-4733-afd5-9a62df7b5189"
+    "id": "ac81dcf3-6d16-4733-afd5-9a62df7b5189",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwi",
+    "updated_by": "Piwi"
   },
   {
     "image": "/images/ImgArticle8.jpg",
@@ -781,7 +1266,12 @@ export default [
     "content": "Discover the new camping zones:\n\n🏕️ More space, better facilities, and closer to main stages.\n\nBook your spot early for the best experience.",
     "category": "da7886f9-f2a8-451f-a46b-0b47c99610a9",
     "date": "July 3, 2025",
-    "id": "f00daa24-7222-45d7-8de5-b6ff2d32e21b"
+    "id": "f00daa24-7222-45d7-8de5-b6ff2d32e21b",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle9.jpg",
@@ -789,7 +1279,12 @@ export default [
     "content": "Your safety is paramount:\n\n🛡️ Enhanced security checkpoints and patrols.\n\nCooperate with staff to ensure a safe environment for all.",
     "category": "0387c5e5-bd82-4282-929e-e4754844f4bf",
     "date": "July 4, 2025",
-    "id": "3086efb7-42d1-4a31-ae09-d5f090f87ed5"
+    "id": "3086efb7-42d1-4a31-ae09-d5f090f87ed5",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Piwa",
+    "updated_by": "Piwa"
   },
   {
     "image": "/images/ImgArticle10.jpg",
@@ -797,6 +1292,11 @@ export default [
     "content": "A heartfelt thanks to all attendees, artists, and staff:\n\n❤️ Your passion and energy make Mo:Dem Festival unforgettable.\n\nSee you next year!",
     "category": "22d09dca-8783-4800-8621-7e67b0da9c33",
     "date": "July 5, 2025",
-    "id": "969dcacb-4663-4d28-833a-45e1f0355a31"
+    "id": "969dcacb-4663-4d28-833a-45e1f0355a31",
+    "created_at": "2025-06-12T09:24:26.194Z",
+    "updated_at": null,
+    "status": "Published",
+    "created_by": "Aurélien",
+    "updated_by": "Aurélien"
   }
 ]

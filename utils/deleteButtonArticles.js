@@ -1,8 +1,8 @@
 import fs from 'fs';
-import articles from './data/articles.js';
+import articles from '../data/articles.js';
 
 function deleteButtonField() {
-  const cleanedArticles = articles.map(article => {
+  const cleanedArticles = articles.map((article) =>{
     const { button, ...rest } = article;
     return rest;
   });
@@ -19,3 +19,6 @@ function deleteButtonField() {
 }
 
 deleteButtonField();
+
+
+
