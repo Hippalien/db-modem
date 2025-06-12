@@ -1,3 +1,7 @@
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+CREATE EXTENSION IF NOT EXISTS "moddatetime";
+
+
 CREATE TABLE articles (
 id SUUID DEFAULT uuid_generate_v4()  PRIMARY KEY,
 title VARCHAR(100) NOT NULL,
@@ -11,6 +15,12 @@ created_by UUID FOREIGN KEY REFERENCES users(id),
 updated_by UUID FOREIGN KEY REFERENCES users(id),
 );
 
+CREATE TYPE article_status AS ENUM ('published', 'draft');
+
+CREATE TRIGGER handle_article_updated_at BEFORE UPDATE ON articles
+FOR EACH ROW
+EXECUTE PROCEDURE moddatetime(updated_at);
+
 
 CREATE TABLE categories (
 id UUID DEFAULT uuid_generate_v4 () PRIMARY KEY,
@@ -18,6 +28,10 @@ name VARCHAR(50) NOT NULL,
 created_at TIMESTAMP DEFAULT NOW(),
 updated_at TIMESTAMP DEFAULT,
 );
+
+CREATE TRIGGER handle_updated_at BEFORE UPDATE ON categories
+FOR EACH ROW
+EXECUTE PROCEDURE moddatetime(updated_at);
 
 CREATE TABLE users (
 id SERIAL PRIMARY KEY,

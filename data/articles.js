@@ -7,7 +7,7 @@ export default [
     "id": "93cb25c5-bd61-4be9-9122-a3c9a56ee887",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -19,7 +19,7 @@ export default [
     "id": "c0bc0b9b-28cf-4cab-bfed-8ea3c9fc1b71",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -31,7 +31,7 @@ export default [
     "id": "ddb8b640-e044-46f9-b2b3-33669b52b00e",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -43,7 +43,7 @@ export default [
     "id": "45adb23d-9e70-418f-a99c-62eec9baddcf",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -55,7 +55,7 @@ export default [
     "id": "feb6cc2d-2a2d-436c-aa9a-89e581ade17d",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -67,7 +67,7 @@ export default [
     "id": "f0d93ee1-50ff-448e-96e1-4fd8ebd1bb21",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -79,7 +79,7 @@ export default [
     "id": "2ccdc9e7-5937-4743-9995-16f51f0c25f5",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -91,7 +91,7 @@ export default [
     "id": "85f11e7d-2a20-480e-9935-c28c4b611cd1",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -103,7 +103,7 @@ export default [
     "id": "44d49f47-ed3f-4bde-b77a-559bac448526",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -115,7 +115,7 @@ export default [
     "id": "d27e4685-d719-4997-b97a-71d7699781e1",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -127,7 +127,7 @@ export default [
     "id": "d147d7b9-e894-4044-a5f0-4a447ad5be55",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -139,7 +139,7 @@ export default [
     "id": "c1b674b9-3adf-410a-b3fe-e9a9fc1d0b7d",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -151,7 +151,7 @@ export default [
     "id": "0d1af671-495d-4d2f-ab61-bb3dd54dfc45",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -163,7 +163,7 @@ export default [
     "id": "5d79afd0-0c34-4cca-b6c3-459b483fc862",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -175,7 +175,7 @@ export default [
     "id": "872671de-d8ef-4078-baff-77235a4e6762",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -187,7 +187,7 @@ export default [
     "id": "877d0b42-3e3a-44d7-9cac-519b59e82192",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -199,7 +199,7 @@ export default [
     "id": "96751ad6-739b-4f26-8bf4-854149d04590",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -211,7 +211,7 @@ export default [
     "id": "0ef78071-4208-4814-8fe4-6bfb61702c48",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -223,7 +223,7 @@ export default [
     "id": "2c31f7d7-1be5-4850-9e7a-d05b77ba0b1f",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -235,7 +235,7 @@ export default [
     "id": "c7c2b681-507c-467c-a5ef-f38fe6f13ac8",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -247,7 +247,7 @@ export default [
     "id": "ee45c3d5-9127-4e2e-85fb-6a4c6c59cb1d",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -259,7 +259,7 @@ export default [
     "id": "a3f7bd56-8f17-42a8-add8-4975c9800b43",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -271,7 +271,7 @@ export default [
     "id": "79aaf9a6-5e44-4422-9423-4cf691f6ab55",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -283,7 +283,7 @@ export default [
     "id": "c806cf1d-8346-454e-966b-f416f9d42b32",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -295,7 +295,7 @@ export default [
     "id": "79fc8ecd-e2eb-4143-a6cc-8ff4832ea6c7",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -307,7 +307,7 @@ export default [
     "id": "f4505c07-23ec-47bb-9af6-ace8bb3ef672",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -319,7 +319,7 @@ export default [
     "id": "7b7d7360-f838-43c3-95ce-c62504e61994",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -331,7 +331,7 @@ export default [
     "id": "9237eafc-9cdd-46b7-858e-6643173c07df",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -343,7 +343,7 @@ export default [
     "id": "582bd9d3-cbdd-4770-a55a-16c8df240867",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -355,7 +355,7 @@ export default [
     "id": "56550525-3511-4f7d-916c-38ac542bc391",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -367,7 +367,7 @@ export default [
     "id": "ab4be6e6-c368-44ac-93a7-8d84cb69c5be",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -379,7 +379,7 @@ export default [
     "id": "fc61c806-e9c0-4d2b-b6f5-4236673d933b",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -391,7 +391,7 @@ export default [
     "id": "536c44d2-99ec-48fb-b425-5db1d994854e",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -403,7 +403,7 @@ export default [
     "id": "1dbe1e2e-50c4-4fa1-8838-43c19b464c0f",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -415,7 +415,7 @@ export default [
     "id": "f6cdee5d-7c63-4931-ba87-68650a8ba883",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -427,7 +427,7 @@ export default [
     "id": "7941ae88-c066-4fdc-905c-32e7c18cd7b6",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -439,7 +439,7 @@ export default [
     "id": "45494f46-b219-413e-b097-519a84292d8e",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -451,7 +451,7 @@ export default [
     "id": "2c17cc9e-e0ad-40c3-9d8c-cc5be51a3b3e",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -463,7 +463,7 @@ export default [
     "id": "5450c84b-e886-4c3a-a27a-443a20f67179",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -475,7 +475,7 @@ export default [
     "id": "769e1a1d-3e9f-46dd-b31b-6d230f6922f3",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -487,7 +487,7 @@ export default [
     "id": "9cdc221d-b6ce-4738-9ceb-39db29b6a431",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -499,7 +499,7 @@ export default [
     "id": "5a9a1355-26c7-4cb2-ba1b-efa06b444425",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -511,7 +511,7 @@ export default [
     "id": "6ed0bf22-0502-426c-b6db-1216c6c16cee",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -523,7 +523,7 @@ export default [
     "id": "b46e641a-2a62-4f64-8a45-06fbfc8991d9",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -535,7 +535,7 @@ export default [
     "id": "d8722a29-4f42-4ba4-8b80-a7914b305bbd",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -547,7 +547,7 @@ export default [
     "id": "9a91ec1a-8459-4b62-9fc5-de7185e534ad",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -559,7 +559,7 @@ export default [
     "id": "007c9f23-a2df-48dc-a17a-16b72351b61f",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -571,7 +571,7 @@ export default [
     "id": "70163f70-fe7e-4b3d-b06f-a3cefc5382bf",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -583,7 +583,7 @@ export default [
     "id": "2eb7b231-ff91-4e91-a44e-db47d6e4415e",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -595,7 +595,7 @@ export default [
     "id": "4c859f08-8486-4854-b324-f04bd41fc649",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -607,7 +607,7 @@ export default [
     "id": "4ada177d-b837-47cb-9442-47069b21e438",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -619,7 +619,7 @@ export default [
     "id": "5205710b-cca1-4c4b-95af-ec671bc2b45c",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -631,7 +631,7 @@ export default [
     "id": "308a6368-4613-47b3-befd-66387b05d697",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -643,7 +643,7 @@ export default [
     "id": "e013ec6e-86c7-4cc3-bd32-85e3755298d6",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -655,7 +655,7 @@ export default [
     "id": "b3b19b52-c63f-4823-9b7b-c22728a0d5eb",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -667,7 +667,7 @@ export default [
     "id": "5a1e9a01-ed95-462b-ab24-bc73467ada98",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -679,7 +679,7 @@ export default [
     "id": "46fe58aa-791c-437d-ab9a-6a32949ef630",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -691,7 +691,7 @@ export default [
     "id": "c2b290dc-39aa-413e-98a4-59fef1813e00",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -703,7 +703,7 @@ export default [
     "id": "765b20b8-167e-4942-a018-8b771a74c187",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -715,7 +715,7 @@ export default [
     "id": "804df075-856f-4382-9d5f-8c174ffce4d9",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -727,7 +727,7 @@ export default [
     "id": "cc4c4de1-ef09-4318-bc62-cb8de008283d",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -739,7 +739,7 @@ export default [
     "id": "1a333491-8b1a-4aa4-834c-97ee4254b626",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -751,7 +751,7 @@ export default [
     "id": "3ea54988-0a11-417b-b942-c4cc95bf0037",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -763,7 +763,7 @@ export default [
     "id": "ebe26b4b-7431-4681-bf05-ccaa9d9f32be",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -775,7 +775,7 @@ export default [
     "id": "3449c099-8c7e-4510-8b1c-63eac0ee16f8",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -787,7 +787,7 @@ export default [
     "id": "69a6ac13-dd60-4c72-916e-f9813eb0c3e0",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -799,7 +799,7 @@ export default [
     "id": "f8c22f44-a2a3-4226-a1a6-10ef7aa65341",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -811,7 +811,7 @@ export default [
     "id": "f195795b-6e9e-44c6-8711-01b1ec6689ff",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -823,7 +823,7 @@ export default [
     "id": "9e66f80b-096d-47ed-8400-0b424ddb91e6",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -835,7 +835,7 @@ export default [
     "id": "425f0c3c-748a-45ab-ae84-4fbff21480de",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -847,7 +847,7 @@ export default [
     "id": "1a92e045-211d-4453-9b00-e806c0a8261d",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -859,7 +859,7 @@ export default [
     "id": "afc469a7-0021-4cfc-87cb-2471b62644f9",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -871,7 +871,7 @@ export default [
     "id": "8e7a0a65-200d-4c5d-a007-2f0409ce1757",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -883,7 +883,7 @@ export default [
     "id": "4392715a-8699-4871-8214-8f6eeb06892c",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -895,7 +895,7 @@ export default [
     "id": "ad46483f-e9d8-4ffa-b1e5-0671d8ee3cef",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -907,7 +907,7 @@ export default [
     "id": "3f2e1cd9-49ca-45b1-a779-4511b59124e5",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -919,7 +919,7 @@ export default [
     "id": "6e586dc1-3c50-4e88-8243-b9eab025d9c8",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -931,7 +931,7 @@ export default [
     "id": "91cd2023-4de4-41ca-adbe-e513eb2b152a",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -943,7 +943,7 @@ export default [
     "id": "249e1232-f872-4e4c-a7bd-95f37804a000",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -955,7 +955,7 @@ export default [
     "id": "72319c11-ee9a-4656-b1e1-eb55335b6bb5",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -967,7 +967,7 @@ export default [
     "id": "29b67c33-b541-45f4-87a2-001e3347315e",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -979,7 +979,7 @@ export default [
     "id": "03c6996f-9e0c-4b9a-9998-5de59cacb346",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -991,7 +991,7 @@ export default [
     "id": "b4a4e6ae-eaff-49c9-b1ea-0671c9f9b7e0",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -1003,7 +1003,7 @@ export default [
     "id": "607c1043-a78a-440b-bfac-61dfa81aac83",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -1015,7 +1015,7 @@ export default [
     "id": "74d6b8b3-fabe-46b4-a471-e0d80537c059",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -1027,7 +1027,7 @@ export default [
     "id": "310ce8d3-bf9f-40ba-96ff-7f6e2ac05564",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Elodie",
     "updated_by": "Elodie"
   },
@@ -1039,7 +1039,7 @@ export default [
     "id": "33c7c5dd-90a1-43e1-8c72-f91e972ebb88",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -1051,7 +1051,7 @@ export default [
     "id": "775af428-7d3c-4371-ba43-39f54548de37",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -1063,7 +1063,7 @@ export default [
     "id": "35759177-da5c-483f-aa90-c3090c096464",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -1075,7 +1075,7 @@ export default [
     "id": "56b7e20e-7960-47f1-8170-b7d5347d7484",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -1087,7 +1087,7 @@ export default [
     "id": "eb623774-827f-4e40-b91b-6d0c6487efac",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Vaïa",
     "updated_by": "Vaïa"
   },
@@ -1099,7 +1099,7 @@ export default [
     "id": "5d81e335-79aa-431a-a4e0-b2d11f5a2283",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -1111,7 +1111,7 @@ export default [
     "id": "bae39c49-2182-4dad-a8ae-53fdcb730eef",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -1123,7 +1123,7 @@ export default [
     "id": "a2cf2be9-3226-4fff-ad3c-111ac66a9287",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -1135,7 +1135,7 @@ export default [
     "id": "4734813b-4f40-493a-bf59-7c47c81dc0a4",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -1147,7 +1147,7 @@ export default [
     "id": "2c0e7373-376b-48ad-aa5c-4ef613e1501a",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   },
@@ -1159,7 +1159,7 @@ export default [
     "id": "ac81dcf3-6d16-4733-afd5-9a62df7b5189",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwi",
     "updated_by": "Piwi"
   },
@@ -1171,7 +1171,7 @@ export default [
     "id": "f00daa24-7222-45d7-8de5-b6ff2d32e21b",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -1183,7 +1183,7 @@ export default [
     "id": "3086efb7-42d1-4a31-ae09-d5f090f87ed5",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Piwa",
     "updated_by": "Piwa"
   },
@@ -1195,7 +1195,7 @@ export default [
     "id": "969dcacb-4663-4d28-833a-45e1f0355a31",
     "created_at": "2025-06-12T13:51:50.696Z",
     "updated_at": null,
-    "status": "Published",
+    "status": "published",
     "created_by": "Aurélien",
     "updated_by": "Aurélien"
   }

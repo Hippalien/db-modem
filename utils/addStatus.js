@@ -4,7 +4,7 @@ import articles from '../data/articles.js';
 
 function addStatusField() {
     const updatedArticles = articles.map((article) => {
-        return { ...article, status: 'Published' }; 
+        return { ...article, status: 'published' }; 
     });
 
     const fileContent = `export default ${JSON.stringify(updatedArticles, undefined, 2)}`;
