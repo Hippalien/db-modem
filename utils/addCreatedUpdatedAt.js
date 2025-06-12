@@ -1,15 +1,17 @@
 import fs from 'fs';
 import articles from '../data/articles.js';
+import categories from '../data/categories.js';
+import users from '../data/users.js';
 
-function addDateField() {
+function addDateField(array, fileName) {
   const now = new Date().toISOString();
-  const updatedArticles = articles.map((article) => {
-    return { ...article, created_at : new Date().toISOString(), updated_at : null }; 
+  const updated = array.map((item) => {
+    return { ...item, created_at : now, updated_at : null }; 
   });
-
-  const fileContent = `export default ${JSON.stringify(updatedArticles, undefined, 2)}`;
+  const fileContent = `export default ${JSON.stringify(updated, undefined, 2)}`;
+  const path = `./data/${fileName}.js`;
    
-  fs.writeFile('./data/articles.js', fileContent, function(err) {
+  fs.writeFile(path, fileContent, (err) => {
     if (err) {
       console.error('Erreur', err);
     } else {
@@ -18,4 +20,6 @@ function addDateField() {
   });
 }
 
-addDateField();
+addDateField(articles, 'articles');
+addDateField(categories, 'categories');
+addDateField(users, 'users');

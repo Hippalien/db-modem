@@ -8,14 +8,14 @@ const idArticles = uuidv4();
 console.log(idArticles);
 
 function updateArticles() {
-  const updatedArticles = articles.map(function(article) {
+  const updatedArticles = articles.map((article) => {
     article.id = uuidv4();
     return article;
   });
 
   const fileContent = `export default ${JSON.stringify(updatedArticles, undefined, 2)}`;
 
-  fs.writeFile('./data/articles.js', fileContent, function(err) {
+  fs.writeFile('./data/articles.js', fileContent, (err) =>{
     if (err) {
       console.error('Erreur', err);
     } else {
@@ -25,7 +25,7 @@ function updateArticles() {
 }
 
 function updateCategories() {
-  const updatedCategories = categories.map(function(cat) {
+  const updatedCategories = categories.map((cat) => {
     return {
       id: uuidv4(),
       name: cat.name
@@ -34,7 +34,7 @@ function updateCategories() {
 
   const fileContent = `export default ${JSON.stringify(updatedCategories, undefined, 2)}`;
 
-  fs.writeFile('./data/categories.js', fileContent, function(err) {
+  fs.writeFile('./data/categories.js', fileContent, (err) => {
     if (err) {
       console.error('Erreur', err);
     } else {
@@ -48,14 +48,14 @@ const idUsers = uuidv4();
 console.log(idUsers);
 
 function updateUsers() {
-  const updatedUserId = users.map(function(users) {
+  const updatedUserId = users.map((users) => {
     users.id = uuidv4();
     return users;
   });
 
   const fileContent = `export default ${JSON.stringify(updatedUserId, undefined, 2)}`;
 
-  fs.writeFile('./data/users.js', fileContent, function(err) {
+  fs.writeFile('./data/users.js', fileContent, (err) => {
     if (err) {
       console.error('Erreur', err);
     } else {

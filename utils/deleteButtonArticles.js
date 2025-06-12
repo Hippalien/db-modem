@@ -9,7 +9,7 @@ function deleteButtonField() {
 
   const fileContent = `export default ${JSON.stringify(cleanedArticles, undefined, 2)}`;
 
-  fs.writeFile('./data/articles.js', fileContent, function(err) {
+  fs.writeFile('./data/articles.js', fileContent, (err) => {
     if (err) {
       console.error('Erreur', err);
     } else {
