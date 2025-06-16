@@ -4,3 +4,4 @@ import Knex from 'knex';
 const knex = Knex(knexConfig);
 
 export default knex;
+
