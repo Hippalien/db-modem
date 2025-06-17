@@ -18,7 +18,7 @@ fastify.get('/', async (request, reply) => {
   return { hello: 'Hello Paris' }
 })
 
-fastify.register(articles, { prefix: '/api/articles' })
+fastify.register(articles, { prefix: '/api/articles'})
 fastify.register(categories, { prefix: '/api/categories' })
 fastify.register(users, { prefix: '/api/users' })
 
