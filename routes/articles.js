@@ -1,31 +1,36 @@
-import articles from '../data/articles.js';
+import db from '../db.js';
 
 async function routes (fastify, options) {
   fastify.get('/', async (request, reply) => {
-    request.log.info('GET /')
-    console.log('GET /')
-    return articles
-    })
+   try {
+    const articles = await db('articles');
+    return articles;
+   } catch (err) {
+    console.error('Erreur GET /articles', err);
+   }
+  });
 
 fastify.get('/highlights', async (request, reply) => {
-  const highlightArticles = articles.slice(0, 3);
-  console.log('Highlight articles:', highlightArticles); 
-  return highlightArticles;
+  try {
+    const articles = await db('articles').limit(3);
+    return articles;
+   } catch (err) {
+    console.error('Erreur GET /articles', err);
+   }
   });
 
 fastify.get('/:id', async (request, reply) => {
-  console.log('je suis request',request)
-  request.log.info('GET /:id')
-
-  const articleId = request.params.id;
-  const article = articles.find(function(article) {
-  return article.id === articleId 
-})
-
-  if (!article)  {
-    reply.code(404).send({error: 'Article not found'})
-  }   
-return article
+  const { id } = request.params;
+  try {
+    const article = await db('articles').where({ id }).first();
+    if (!article) {
+      console.error('Article non trouvé');
+    } else {
+      return article;
+    }
+  } catch (err) {
+    console.error('Erreur GET /:id', err);
+  }
 });
 
 }

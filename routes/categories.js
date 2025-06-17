@@ -1,11 +1,14 @@
-import categories from '../data/categories.js';
+import db from '../db.js';
 
 async function routes (fastify, options) {
-  fastify.get('/', async (request, reply) => {
-    request.log.info('GET /api/categories')
-    console.log('GET /api/categories')
-    return categories
-    })
+fastify.get('/', async (request, reply) => {
+    try {
+      const categories = await db('categories');
+      return categories;
+    } catch (err) {
+      console.error('Erreur GET /');
+    }
+});
 }
 
 export default routes;

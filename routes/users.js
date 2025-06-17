@@ -1,11 +1,15 @@
-import users from '../data/users.js';
+import db from '../db.js';
 
 async function routes (fastify, options) {
   fastify.get('/users', async (request, reply) => {
-    request.log.info('GET /users')
-    console.log('GET /users')
-    return users
-    })
+    try {
+      const users = await db('users');
+      return users;
+    } catch (err) {
+      console.error('Erreur GET /users', err);
+      throw err;
+    }
+  });
 }
 
 export default routes;
