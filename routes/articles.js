@@ -53,7 +53,22 @@ fastify.post('/', async (request, reply) => {
     console.error('Erreur POST /articles', err);
     return reply.send({error: 'Erreur'});
   }
+});
+
+fastify.delete('/:id', async (request, reply) => {
+const { id } = request.params
+try {
+  const deleted = await db('articles').where({ id }).del()
+  if (deleted === 0){
+    return reply.send({error: 'Article non trouvé'})
+  }
+  return reply.send({message: 'Article supprimé avec succés'})
+} catch (err){
+  console.error('Erreur lors de la suppression', err);
+  return reply.send({error: 'Erreur'});
+}
 })
+
 };
 
 
