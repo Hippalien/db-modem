@@ -69,6 +69,24 @@ try {
 }
 })
 
+fastify.patch('/:id', async (request, reply) => {
+const { id } = request.params
+const dataToUpdate = request.body
+console.log('Body reçu :', request.body)
+
+try {
+  const updated = await db('articles').where({ id }).update(dataToUpdate)
+if (updated === 0){
+  return reply.send({error: 'Article non trouvé'})
+}
+
+return reply.send({message: 'Article mis à jour avec succès'})
+} catch (err){
+  console.error('Erreur lors de la mise à jour', err);
+  return reply.send({error: 'Erreur'});
+}
+})
+
 };
 
 
