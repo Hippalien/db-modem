@@ -4,6 +4,7 @@ import cors from '@fastify/cors'
 import articles from './routes/articles.js'
 import categories from './routes/categories.js'
 import users from './routes/users.js'
+import 'dotenv/config.js'
 
 const fastify = Fastify({
   logger: true
