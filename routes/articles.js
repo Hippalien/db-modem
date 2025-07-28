@@ -3,7 +3,7 @@ import db from '../db.js';
 async function routes (fastify, options) {
   fastify.get('/', async (request, reply) => {
    try {
-    const articles = await db('articles');
+    const articles = await db('articles').orderBy('created_at', 'desc');
     return articles;
    } catch (err) {
     console.error('Erreur GET /articles', err);

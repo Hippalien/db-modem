@@ -4,7 +4,7 @@ async function routes (fastify, options) {
 
   fastify.get('/', async (request, reply) => {
     try {
-      const categories = await db('categories');
+      const categories = await db('categories').orderBy('name', 'asc');
       return categories;
     } catch (err) {
       console.error('Erreur GET /', err);
