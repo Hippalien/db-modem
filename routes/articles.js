@@ -71,10 +71,8 @@ try {
 
 fastify.patch('/:id', async (request, reply) => {
 const { id } = request.params
-const dataToUpdate = { ...request.body,
-updated_at: new Date().toISOString() };
+const dataToUpdate = request.body
 console.log('Body reçu :', request.body)
-
 
 try {
   const updated = await db('articles').where({ id }).update(dataToUpdate)
