@@ -12,7 +12,7 @@ async function routes (fastify, options) {
 
 fastify.get('/highlights', async (request, reply) => {
   try {
-    const articles = await db('articles').limit(3);
+    const articles = await db('articles').limit(3).orderBy('created_at', 'desc');
     return articles;
    } catch (err) {
     console.error('Erreur GET /articles', err);
@@ -71,8 +71,10 @@ try {
 
 fastify.patch('/:id', async (request, reply) => {
 const { id } = request.params
-const dataToUpdate = request.body
+const dataToUpdate = { ...request.body,
+updated_at: new Date().toISOString() };
 console.log('Body reçu :', request.body)
+
 
 try {
   const updated = await db('articles').where({ id }).update(dataToUpdate)
