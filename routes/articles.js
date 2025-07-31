@@ -3,7 +3,7 @@ import db from '../db.js';
 async function routes (fastify, options) {
   fastify.get('/', async (request, reply) => {
    try {
-    const articles = await db('articles').orderBy('created_at', 'desc');
+    const articles = await db('articles').orderByRaw('COALESCE(updated_at, created_at) DESC'); 
     return articles;
    } catch (err) {
     console.error('Erreur GET /articles', err);
@@ -12,7 +12,7 @@ async function routes (fastify, options) {
 
 fastify.get('/highlights', async (request, reply) => {
   try {
-    const articles = await db('articles').limit(3).orderBy('created_at', 'desc');
+    const articles = await db('articles').limit(3).orderByRaw('COALESCE (updated_at, created_at) DESC');
     return articles;
    } catch (err) {
     console.error('Erreur GET /articles', err);
@@ -35,19 +35,20 @@ fastify.get('/:id', async (request, reply) => {
 
 fastify.post('/', async (request, reply) => {
   try {
-    const { title, status, image, content } = request.body;
-    if (!title || !status || !image || !content){
+    const { title, status, image, content, category } = request.body;
+    if (!title || !status || !image || !content || !category){
       return reply.send({ error: 'Tous les champs sont requis'});
     }
     if (
       typeof title !== 'string' ||
       typeof status !== 'string' ||
       typeof image !== 'string' ||
-      typeof content !== 'string'
+      typeof content !== 'string' ||
+      typeof category !== 'string'
     ) {
       return reply.send({ error: 'Les champs doivent être des chaînes de caractères' });
     }
-    const [id] = await db('articles').insert({ title, status, image, content}).returning('id')
+    const [id] = await db('articles').insert({ title, status, image, content, category}).returning('id')
     return reply.send({ id });
   } catch (err) {
     console.error('Erreur POST /articles', err);
