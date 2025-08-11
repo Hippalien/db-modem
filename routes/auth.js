@@ -1,12 +1,12 @@
 import argon2 from 'argon2'
 
-export default async function authRoutes(fastify, opts) {
+export default async function authRoutes(fastify) {
     const knex = fastify.knex
 
     fastify.post('/login', async (request, reply) => {
-        const { username, password } = request.body
+        const { email, password } = request.body
 
-        const user = await knex('users').where({ username }).first()
+        const user = await knex('users').where({ email }).first()
         if (!user) {
             reply.code(401)
             return { error: 'Identifiants invalides' }
@@ -19,7 +19,8 @@ export default async function authRoutes(fastify, opts) {
           }
           request.session.user = {
             id: user.id,
-            username: user.username
+            name: user.name,
+            email: user.email
           }
           return { message: 'Connexion réussie' }
   })
@@ -32,21 +33,20 @@ export default async function authRoutes(fastify, opts) {
     }
   })
   fastify.post('/logout', async (request, reply) => {
-    request.destroySession((err) => {
-      if (err) {
-        reply.code(500)
-        return { error: 'Erreur lors de la déconnexion' }
-      }
+    try {
+      await request.session.destroy()
       reply.send({ message: 'Déconnecté' })
-    })
+    } catch (err) {
+      reply.code(500)
+      reply.send({ error: 'Erreur lors de la déconnexion' })
+    }
   })
-  fastify.get('/dashboard', async (request, reply) => {
+  
+  fastify.get('/', async (request, reply) => {
     if (!request.session.user) {
       reply.code(401)
       return { error: 'Accès interdit' }
     }
-
-    return { message: `Bienvenue ${request.session.user.username}` }
   })
 }
 
