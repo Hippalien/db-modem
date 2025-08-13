@@ -27,7 +27,7 @@ await fastify.register(cors, {
 await fastify.register(formbody)
 await fastify.register(fastifyCookie)
 await fastify.register(fastifySession, {
-  secret: 'un-secret-de-minimum-32-caracteres-très-long',
+  secret: 's}aAW-9!l$<@Uca/O)a79?>9tq@dNAu_',
   cookieName: 'sessionId',
   cookie: {
     secure: false,
@@ -48,7 +48,7 @@ fastify.get('/', async (request, reply) => {
     return { error: 'Non connecté' }
   }
 
-  return { message: ` ${request.session.user.name} - Tableau de bord` }
+  return { message: request.session.user.name  }
 })
 
 async function runServer(){

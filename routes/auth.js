@@ -5,26 +5,30 @@ export default async function authRoutes(fastify) {
 
     fastify.post('/login', async (request, reply) => {
         const { email, password } = request.body
-
         const user = await knex('users').where({ email }).first()
+        const isPasswordValid = await argon2.verify(user.password, password)
+
         if (!user) {
             reply.code(401)
             return { error: 'Identifiants invalides' }
           }
-          const isPasswordValid = await argon2.verify(user.password, password)
 
-          if (!isPasswordValid) {
+        if (!isPasswordValid) {
             reply.code(401)
             return { error: 'Mot de passe incorrect' }
           }
-          request.session.user = {
-            id: user.id,
-            name: user.name,
-            email: user.email
+
+        else {
+            request.session.user = {
+              id: user.id,
+              name: user.name,
+              email: user.email
+            }
+            return { message: 'Connexion réussie' }
           }
-          return { message: 'Connexion réussie' }
   })
-  fastify.get('/me', async (request, reply) => {
+
+  fastify.get('/user', async (request, reply) => {
     if (request.session.user) {
       return { user: request.session.user }
     } else {
@@ -32,6 +36,7 @@ export default async function authRoutes(fastify) {
       return { error: 'Non connecté' }
     }
   })
+
   fastify.post('/logout', async (request, reply) => {
     try {
       await request.session.destroy()

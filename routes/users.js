@@ -1,8 +1,8 @@
 import db from '../db.js';
 import argon2 from 'argon2';
 
-async function routes (fastify, options) {
-  fastify.get('/', async (request, reply) => {
+async function routes (fastify) {
+  fastify.get('/', async() => {
     try {
       const users = await db('users');
       return users;
@@ -14,17 +14,22 @@ async function routes (fastify, options) {
 
 
   fastify.post('/', async (request, reply) => {
-    try {
-      const { name, email, password } = request.body;
-      if (!name || !email || !password){
+    const { name, email, password } = request.body;
+    const hashedPassword = await argon2.hash(password);
+
+    if (!name || !email || !password){
         return reply.send({ error: 'Tous les champs sont requis'});
-      }
-      const hashedPassword = await argon2.hash(password);
-      const [user] = await db('users').insert({ name, email, password: hashedPassword}).returning('id')
+     }
+
+    try {
+      const user = await db('users').insert({ name, email, password: hashedPassword}).returning('id')
+      console.log('New user create:', user);
       return reply.send({ id: user.id });
-    } catch (err) {
+    }
+
+    catch (err) {
       console.error('Erreur POST /users', err);
-      return reply.send({error: 'Erreur'});
+      return reply.send({error: 'Error'});
     }
   });
 
