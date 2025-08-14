@@ -16,9 +16,11 @@ fastify.get('/highlights', async (request, reply) => {
     const articles = await db('articles').limit(3).orderByRaw('COALESCE (updated_at, created_at) DESC');
     return articles;
    } catch (err) {
-    console.error('Erreur GET /articles', err);
+    console.error('Error GET /articles', err);
    }
   });
+
+ 
 
 fastify.get('/:id', async (request) => {
   const { id } = request.params;
@@ -36,8 +38,11 @@ fastify.get('/:id', async (request) => {
 
 fastify.post('/', async (request, reply) => {
   try {
-    const { title, status, image, content, category } = request.body;
-    if (!title || !status || !image || !content || !category){
+    const { title, status, image, content, category} = request.body;
+
+ 
+    
+    if (!title || !status || !image || !content || !category  ){
       return reply.send({ error: 'Tous les champs sont requis'});
     }
     if (
@@ -45,13 +50,16 @@ fastify.post('/', async (request, reply) => {
       typeof status !== 'string' ||
       typeof image !== 'string' ||
       typeof content !== 'string' ||
-      typeof category !== 'string'
+      typeof category !== 'string' 
     ) {
       return reply.send({ error: 'Les champs doivent être des chaînes de caractères' });
     }
 
-    const id = await db('articles').insert({ title, status, image, content, category}).returning('id')
-    return reply.send({ id });
+
+    const [id] = await db('articles')
+    .insert({ title, status, image, content, category })
+    .returning('id')
+        return reply.send({ id });
   } catch (err) {
     console.error('Erreur POST /articles', err);
     return reply.send({error: 'Erreur'});

@@ -18,24 +18,28 @@ const fastify = Fastify({
 
 fastify.decorate('knex', knex);
 
-await fastify.register(cors, {
-  origin: ['http://localhost:3000', 'http://127.0.1:3000', 'http://localhost:5173'],
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'], 
-  credentials: true
-})
+
 
 await fastify.register(formbody)
 await fastify.register(fastifyCookie)
 await fastify.register(fastifySession, {
   secret: 's}aAW-9!l$<@Uca/O)a79?>9tq@dNAu_',
-  cookieName: 'sessionId',
+  cookieName: 'Id',
   cookie: {
     secure: false,
     httpOnly: true,
-    maxAge: 30 * 60 * 1000,
-  }
+    maxAge: 24 * 60 * 60 * 1000, // 24 heures 
+    sameSite: 'lax' //  Protection CSRF
+  },
+  saveUninitialized: false, // Ne sauvegarde que les sessions utilisées
+  rolling: true //  Renouvelle la session à chaque activité
 })
 
+await fastify.register(cors, {
+  origin: ['http://localhost:3000', 'http://127.0.1:3000', 'http://localhost:5173'],
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'], 
+  credentials: true
+})
 
 fastify.register(articles, { prefix: '/api/articles'})
 fastify.register(categories, { prefix: '/api/categories' })
