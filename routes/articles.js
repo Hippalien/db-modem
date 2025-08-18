@@ -1,5 +1,13 @@
 import db from '../db.js';
 
+const requireAuth = async (request, reply) => {
+  if (!request.session.user) {
+    reply.code(401)
+    throw new Error('Authentification requise')
+  }
+}
+
+
 async function routes (fastify) {
   fastify.get('/', async() => {
    try {
@@ -36,9 +44,12 @@ fastify.get('/:id', async (request) => {
   }
 });
 
-fastify.post('/', async (request, reply) => {
+fastify.post('/', {
+  preHandler: requireAuth  // ← Authentification obligatoire
+}, async (request, reply) => {
   try {
     const { title, status, image, content, category} = request.body;
+    const userId = request.session.user.id;
 
  
     
@@ -57,7 +68,8 @@ fastify.post('/', async (request, reply) => {
 
 
     const [id] = await db('articles')
-    .insert({ title, status, image, content, category })
+    .insert({ title, status, image, content, category, created_by: userId,    
+      updated_by: userId,})
     .returning('id')
         return reply.send({ id });
   } catch (err) {

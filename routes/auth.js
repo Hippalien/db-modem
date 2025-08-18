@@ -1,5 +1,14 @@
 import argon2 from 'argon2'
 
+
+export const requireAuth = async (request, reply) => {
+  if (!request.session.user) {
+    reply.code(401)
+    throw new Error('Authentification requise')
+  }
+}
+
+
 export default async function authRoutes(fastify) {
     const knex = fastify.knex
 
@@ -62,5 +71,7 @@ export default async function authRoutes(fastify) {
       return { error: 'Access forbiden' }
     }
   })
+
+
 }
 
