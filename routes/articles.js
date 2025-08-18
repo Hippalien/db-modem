@@ -44,8 +44,27 @@ fastify.get('/:id', async (request) => {
   }
 });
 
+fastify.get('/userarticles', async (request, reply) => {
+  if (!request.session.user) {
+    reply.code(401)
+    return { error: 'Need to login' }
+  }
+
+  try {
+    const articles = await db('articles')
+    .where({ created_by: request.session.user.id })
+      .orderByRaw('COALESCE(updated_at, created_at) DESC')
+
+    return articles
+  } catch (err) {
+    console.error('Erreur GET /userarticles:', err)
+    reply.code(500).send({ error: 'Error' })
+  }
+})
+
+
 fastify.post('/', {
-  preHandler: requireAuth  // ← Authentification obligatoire
+  preHandler: requireAuth  
 }, async (request, reply) => {
   try {
     const { title, status, image, content, category} = request.body;
