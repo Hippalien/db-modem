@@ -12,6 +12,33 @@ async function routes (fastify) {
     }
   });
 
+  fastify.patch('/:id', async (request, reply) => {
+    const { id } = request.params;
+    const { name, email, password } = request.body; 
+
+    if (!name && !email && !password) {
+      return reply.send({ error: 'Minimum one field is required to update' });
+    }
+
+    const dataToUpdate = {};
+    if (name) dataToUpdate.name = name;
+    if (email) dataToUpdate.email = email;
+    if (password) dataToUpdate.password = await argon2.hash(password);
+
+    try {
+      const updatedUser = await db('users').where({ id }).update(dataToUpdate);
+      if (updated === 0) {
+        return reply.status(404).send({ error: 'User not found' });
+      }
+      else {
+        return reply.send({ message: 'User updated successfully' });
+      }
+    } catch (err) {
+      console.error('Erreur PATCH /:id', err);
+      return reply.status(500).send({ error: 'Error updating user' });
+    }
+  });
+
 
   fastify.post('/', async (request, reply) => {
     const { name, email, password } = request.body;
